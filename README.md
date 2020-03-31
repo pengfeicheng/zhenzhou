@@ -5,4 +5,4 @@
 文档不定时更新，欢迎大家提交 issue / request
 
 郑州科技职业圈微信讨论群：
-![微信群](https://raw.githubusercontent.com/pengfeicheng/zhenzhou/master/wechat.jpeg) 
+![image](https://raw.githubusercontent.com/pengfeicheng/zhenzhou/master/wechat.jpeg) 
