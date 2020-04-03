@@ -4,5 +4,9 @@
 本着客观真实的态度来评价自己熟悉的公司，你的点评对于他人求职非常的重要，文明用语。
 文档不定时更新，欢迎大家提交 issue / request
 
-郑州科技职业圈微信讨论群：
-![image](https://raw.githubusercontent.com/pengfeicheng/zhenzhou/master/wechat.jpeg) 
+郑州科技职业圈微信讨论群目前人数已超过200人，因微信群限制已无法扫码加群。
+
+如果大家有加微信群的需求可以有以下两种方式联系到我：
+1、邮件联系 dinkevin@163.com
+2、玉米问答【郑州科技职业圈】论坛：http://ask.foni.tech/q-1.html
+
